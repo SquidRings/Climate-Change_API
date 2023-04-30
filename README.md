@@ -4,8 +4,8 @@ Create to list articles that talk about climate change
 
 Installation:
  
-- npm install
+`$ npm install`
 
 Run:
 
-- node index.js
+`$ node index.js`
